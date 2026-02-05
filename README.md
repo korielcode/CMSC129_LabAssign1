@@ -11,6 +11,8 @@ Create a simple full-stack web application with CRUD (Create, Read, Update, Dele
 - **FEAN** (Firebase, Express.js, Angular, Node.js)
 - **FERN** (Firebase, Express.js, React, Node.js)
 
+_NOTE: You are free to use ANY additional libraries and frameworks (like Tailwind) to make this easier for you._
+
 ## 🎯 Learning Objectives
 
 - Understand full-stack web development principles
