@@ -368,7 +368,7 @@ npm install axios # for API calls
 
 ### Grading Rubrics
 
-![RUBRICS](lab1rubrics.png)
+![RUBRICS](/images/lab1rubrics.png)
 
 ## 📚 Helpful Resources
 
@@ -416,4 +416,4 @@ If you encounter issues:
 7. Pray.
 
 **Good luck with your lab! 🚀**
-![](lab1imp.gif)
+![](images/lab1imp.gif)
